@@ -1,6 +1,3 @@
-[submodule "ROS-FF"]
-	path = ROS-FF
-	url = https://gitioc.upc.edu/jan.rosell/ROS-FF
 [submodule "universal_robot"]
 	path = universal_robot
 	url = https://github.com/beta-robots/universal_robot.git
