@@ -1,0 +1,27 @@
+[submodule "ROS-FF"]
+	path = ROS-FF
+	url = https://gitioc.upc.edu/jan.rosell/ROS-FF
+[submodule "universal_robot"]
+	path = universal_robot
+	url = https://github.com/beta-robots/universal_robot.git
+[submodule "Universal_Robots_ROS_Driver"]
+	path = Universal_Robots_ROS_Driver
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS_Driver
+[submodule "robotiq"]
+	path = robotiq
+	url = https://github.com/beta-robots/robotiq.git
+[submodule "UR3-IK"]
+	path = UR3-IK
+	url = https://gitioc.upc.edu/jan.rosell/UR3-IK.git
+[submodule "chesslab_setup"]
+	path = chesslab_setup
+	url = https://gitioc.upc.edu/jan.rosell/chesslab_setup.git
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
+[submodule "realsense_lab"]
+	path = realsense_lab
+	url = https://gitioc.upc.edu/jan.rosell/realsense_lab.git
+[submodule "aruco_ros"]
+	path = aruco_ros
+	url = https://github.com/beta-robots/aruco_ros.git
