@@ -22,3 +22,6 @@
 [submodule "aruco_ros"]
 	path = aruco_ros
 	url = https://github.com/beta-robots/aruco_ros.git
+[submodule "ff"]
+	path = ff
+	url = https://gitioc.upc.edu/jan.rosell/ff.git
