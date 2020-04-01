@@ -22,3 +22,6 @@
 [submodule "ff"]
 	path = ff
 	url = https://gitioc.upc.edu/jan.rosell/ff.git
+[submodule "universal_robot"]
+	path = universal_robot
+	url = https://github.com/janrosell/universal_robot
