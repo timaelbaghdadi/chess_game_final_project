@@ -1,9 +1,6 @@
 [submodule "Universal_Robots_ROS_Driver"]
 	path = Universal_Robots_ROS_Driver
 	url = https://github.com/UniversalRobots/Universal_Robots_ROS_Driver
-[submodule "robotiq"]
-	path = robotiq
-	url = https://github.com/beta-robots/robotiq.git
 [submodule "UR3-IK"]
 	path = UR3-IK
 	url = https://gitioc.upc.edu/jan.rosell/UR3-IK.git
