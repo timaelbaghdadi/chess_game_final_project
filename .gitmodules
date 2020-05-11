@@ -25,3 +25,6 @@
 [submodule "robotiq"]
 	path = robotiq
 	url = https://github.com/janrosell/robotiq.git
+[submodule "roboticsgroup_gazebo_plugins"]
+	path = roboticsgroup_gazebo_plugins
+	url = https://github.com/beta-robots/roboticsgroup_gazebo_plugins.git
