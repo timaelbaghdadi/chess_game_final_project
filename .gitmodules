@@ -28,3 +28,6 @@
 [submodule "aruco_ros"]
 	path = aruco_ros
 	url = https://github.com/pal-robotics/aruco_ros.git
+[submodule "gazebo_ros_link_attacher"]
+	path = gazebo_ros_link_attacher
+	url = https://github.com/pal-robotics/gazebo_ros_link_attacher.git
