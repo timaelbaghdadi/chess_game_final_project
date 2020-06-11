@@ -33,4 +33,4 @@
 	url = https://github.com/pal-robotics/gazebo_ros_link_attacher.git
 [submodule "my_chesslab_setup"]
 	path = my_chesslab_setup
-	url = https://timaelbaghdadi@bitbucket.org/timaelbaghdadi/my_chesslab_setup.git
+	url = https://bitbucket.org/timaelbaghdadi/my_chesslab_setup.git
