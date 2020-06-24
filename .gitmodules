@@ -35,3 +35,6 @@
 	path = my_chesslab
 	url = https://@bitbucket.org/timaelbaghdadi/my_chesslab_setup.git
 
+[submodule "my_chesslab_setup"]
+	path = my_chesslab_setup
+	url = https://timaelbaghdadi@bitbucket.org/timaelbaghdadi/my_chesslab_setup.git
