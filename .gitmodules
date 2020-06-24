@@ -31,4 +31,7 @@
 [submodule "gazebo_ros_link_attacher"]
 	path = gazebo_ros_link_attacher
 	url = https://github.com/pal-robotics/gazebo_ros_link_attacher.git
+[submodule "my_chesslab"]
+	path = my_chesslab
+	url = https://@bitbucket.org/timaelbaghdadi/my_chesslab_setup.git
 
