@@ -61,7 +61,7 @@ node manager node. Once we have done, a menu is visualized, we have to choose th
 and the action.
 When we run only the rviz, the trajectory and the configurations are updates tanks to the rosservice setrobconf. When we run at the same time Rviz and Gazebo, the rviz subscribes from the Gazebo (that uses the rosservice “joint_trajectory_controller_with_gripper” to publish the trajectory) and at the same time when it is updated the rviz, it also check the collision with the rosservice “setrobconf”. We controll the gripper as it another joint of the robot. 
 
-
+There are 2 vidios that shows the actions in rviz and Gazebo.
 
 
 
